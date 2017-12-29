@@ -1,0 +1,161 @@
+#Todo
+{
+background-color: black;
+height:1110px;
+}
+#Titulo
+{
+bottom: 1057px;
+position: relative;
+}
+#Subtitulo
+{
+font-family: "timesbi";
+color: white;
+font-size: 23px;
+text-align: center;
+bottom: 1068px;
+position: relative;
+}
+#Biografia
+{
+font-family: "HelveticaNarrowRegular";
+color: white;
+font-size: 14px;
+margin-left: 460px;
+position: relative;
+bottom: 1064px;
+letter-spacing: 1.5px;
+}
+#FotoKandinsky
+{
+bottom: 1382px;
+position:relative;
+margin-left: 855px;
+}
+#SeleccionTexto
+{
+font-family: "Calluna";
+color: white;
+font-size: 44px;
+position: relative;
+text-align:center;
+bottom: 1400px;
+}
+#SeleccionDiv
+{
+background-color: black;
+opacity: 0.631;
+position: relative;
+margin-left: auto;
+margin-right:auto;
+width: 672px;
+height: 123px;
+bottom: 1444px;
+}
+#SeleccionDiv2
+{
+position: relative;
+margin-left: auto;
+margin-right:auto;
+width: 672px;
+height: 123px;
+bottom: 1567px;
+}
+#SeleccionFotoDiv
+{
+width: 160px;
+height: 111px;
+padding-top: 6px;
+margin-left:0px;
+margin-right:0px;
+}
+#ObraTitulo
+{
+font-family: "Calluna";
+color: white;
+font-size: 48px;
+position: relative;
+text-align:center;
+bottom: 1604px;
+}
+#ObraSubtitulo
+{
+font-family: "timesbi";
+color: white;
+font-size: 20px;
+position: relative;
+text-align:center;
+bottom: 1655px;
+}
+#ObraDestacada
+{
+position: absolute;
+width: 302px;
+height: 202px;
+top: 810px;
+margin-left: 443px;
+}
+#ObraDestacadaTexto
+{
+font-family: "HelveticaNarrowRegular";
+color: white;
+font-size: 15px;
+margin-left: 763px;
+position: relative;
+bottom: 1662px;
+line-height: 17pt;
+letter-spacing: 1.1px;
+}
+#Link
+{
+font-family: "timesbi";
+color: white;
+font-size: 31px;
+text-align: center;
+bottom: 1688px;
+position: relative;
+}
+#DesuscribirseDiv
+{
+position: relative;
+background-color: black;
+width: 159px;
+height: 28px;
+bottom: 1708px;
+}
+#DesuscribirseTexto
+{
+font-family: "HelveticaNarrowRegular";
+color: white;
+font-size: 16px;
+text-align: center;
+position: relative;
+letter-spacing: 2px;
+}
+.Centrar
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+@font-face
+{
+font-family: "timesbi";
+src: url(../Fuentes/timesbi.ttf);
+}
+@font-face
+{
+font-family: "HelveticaNarrowRegular";
+src: url(../Fuentes/unicode.helvetin.ttf);
+}
+@font-face
+{
+font-family: "Calluna";
+src: url(../Fuentes/Calluna.ttf);
+}
+@font-face
+{
+font-family: "HelveticaNeueMedium";
+src: url(../Fuentes/HelveticaNeueMedium.ttf);
+}
